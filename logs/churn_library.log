@@ -1,0 +1,11 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Image found: churn_dist.png
+root - INFO - Image found: customer_age_dist.png
+root - INFO - Image found: heatmap.png
+root - INFO - Image found: marital_status_dist.png
+root - INFO - Image found: total_trans_dist.png
+root - INFO - Exploratory data analysis (EDA): SUCCESS
+root - INFO - Category colons created and added to df: SUCCESS
+root - INFO - PFE - train test split: SUCCESS
+root - INFO - Training & Saving model: SUCCESS
+root - INFO - Train result images publish: SUCCESS
